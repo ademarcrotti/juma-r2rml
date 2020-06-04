@@ -4,6 +4,8 @@ Juma, jigsaw puzzles for representing mapping, is a method that applies the bloc
 
 In this implementation, we have applied the Juma method to the W3C Recommendation [R2RML](https://www.w3.org/TR/r2rml/). 
 
+More information available at http://openscience.adaptcentre.ie/juma/ .
+
 ## Using the code
 
 This code was developed using Java 8, maven and a MySQL database.
@@ -14,7 +16,6 @@ Database connections can be modified in src/main/resources/hibernate.cfg.xml
 
 In order to run mappings you need to install the following [R2RML engine](https://opengogs.adaptcentre.ie/crottija/r2rml) into your maven repository.
 
-More information available at http://openscience.adaptcentre.ie/juma/ .
 
 ## License
 Code written by Ademar Crotti Junior.
